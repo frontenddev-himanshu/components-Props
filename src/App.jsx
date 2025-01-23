@@ -14,7 +14,7 @@ function App() {
 
       <Component
         cardPic="src/assets/img-2.jpg"
-        title="Himanshu Kumar" 
+        title="Himanshu Kumar"
         disc="Web Developer"
         btn={"Visit Me"} />
     </>
